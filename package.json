@@ -14,6 +14,8 @@
   },
   "devDependencies": {
     "@liferay/eslint-plugin": "1.4.0",
-    "eslint": "7.32.0"
+    "babel-eslint": "10.1.0",
+    "eslint": "7.32.0",
+    "typescript": "5.1.6"
   }
 }
