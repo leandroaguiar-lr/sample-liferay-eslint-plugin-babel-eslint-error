@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "plugins": [
+    "@liferay"
+  ],
+  "extends": [
+    "plugin:@liferay/general"
+  ]
+}

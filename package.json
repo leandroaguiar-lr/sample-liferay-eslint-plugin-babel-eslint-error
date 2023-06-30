@@ -1,0 +1,19 @@
+{
+  "name": "sample-liferay-eslint-plugin-babel-eslint-error",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Leandro Aguiar"
+  },
+  "private": true,
+  "engines": {
+    "node": "18.16.1"
+  },
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "devDependencies": {
+    "@liferay/eslint-plugin": "1.4.0",
+    "eslint": "7.32.0"
+  }
+}
